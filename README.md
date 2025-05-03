@@ -5,8 +5,8 @@
 This is a basic static clone of the Amazon homepage created using **HTML**.
 
 ## 🚀 Live Demo
-[Click here to view the site](https://your-username.github.io/your-repo-name/)  
-> Replace with your actual GitHub Pages URL after publishing.
+[Click here to view the site](https://subhro27.github.io/MY-AMAZON-CLONE/) 
+
 
 ## 📁 Features
 - Static HTML layout resembling Amazon
